@@ -1,0 +1,141 @@
+,company,name_office,city,address,location,latitude,longitude
+0,Google,Google Melbourne,Melbourne,"Rialto South Tower, Level 27","{'type': 'Point', 'coordinates': [-37.879234, 145.073608]}",-37.879234,145.073608
+1,Google,Google Sydney,Sydney,"Levels 11 & 18, Tower 1, Darling Park","{'type': 'Point', 'coordinates': [-34.822723, 138.612396]}",-34.822723,138.612396
+12,AboutWeblogs,,Mawson Lakes,45 Grasswren Way,"{'type': 'Point', 'coordinates': [-34.819499, 138.612894]}",-34.819499,138.612894
+15,Ephox,Aussie Office,Paddington,261 Given Tce,"{'type': 'Point', 'coordinates': [-27.460736, 153.004254]}",-27.460736,153.004254
+18,99designs,Australia,Collingwood,204 Wellington St.,"{'type': 'Point', 'coordinates': [-37.8026587, 144.9868546]}",-37.8026587,144.9868546
+21,Buongiorno,Australia,North Sydney NSW,Level 4,"{'type': 'Point', 'coordinates': [-33.804474, 151.104553]}",-33.804474,151.104553
+26,Scouta,Australia/Asia Office,Perth,90 King Street,"{'type': 'Point', 'coordinates': [-31.952282, 115.855002]}",-31.952282,115.855002
+29,Austhink Software,HQ,"Melbourne, Victoria",L 9 255 Bourke St,"{'type': 'Point', 'coordinates': [-37.813603, 144.96616]}",-37.813603,144.96616
+31,Artabase,,"Southbank,  VIC","Level 19,","{'type': 'Point', 'coordinates': [-37.803294, 144.99974]}",-37.803294,144.99974
+34,Fujitsu,,North Sydney,"Level 16, 15 Blue Street","{'type': 'Point', 'coordinates': [-33.840821, 151.20646]}",-33.840821,151.20646
+36,Twitlinks,Sydney,Manly,PO BOX 290,"{'type': 'Point', 'coordinates': [-33.329799, 151.505125]}",-33.329799,151.505125
+56,PageUp People,,"Melbourne, VIC",Level 10,"{'type': 'Point', 'coordinates': [-38.372965, 144.816292]}",-38.372965,144.816292
+61,Syntac Ventures,HQ,Melbourne,,"{'type': 'Point', 'coordinates': [-37.813339, 144.970823]}",-37.813339,144.970823
+62,WhatYah!,Perth Office,Perth,"Perth, Australia","{'type': 'Point', 'coordinates': [-41.565586, 147.196096]}",-41.565586,147.196096
+63,Exinda,APAC,Abbotsford,13 Harper Street,"{'type': 'Point', 'coordinates': [-37.804233, 144.998935]}",-37.804233,144.998935
+65,Geekdom,Headquarters,Sydney,Level 150 George Street,"{'type': 'Point', 'coordinates': [-33.860404, 151.208584]}",-33.860404,151.208584
+66,UNOS Development,Myunos Australia Pty Ltd,NSW,Loblay Cresent,"{'type': 'Point', 'coordinates': [-33.641732, 151.313553]}",-33.641732,151.313553
+67,Brand New Media,,NORTH SYDNEY NSW,"Level 11,","{'type': 'Point', 'coordinates': [-33.803891, 151.104925]}",-33.803891,151.104925
+68,BuiltWith,,Manly,PO BOX 290,"{'type': 'Point', 'coordinates': [-33.797144, 151.28804]}",-33.797144,151.28804
+69,GENNIT,,Manly,PO BOX 290,"{'type': 'Point', 'coordinates': [-33.329799, 151.505125]}",-33.329799,151.505125
+70,Faulkner Technologies,Brisbane Office,New Farm,P.O. Box 2278,"{'type': 'Point', 'coordinates': [-27.467878, 153.047052]}",-27.467878,153.047052
+71,MyTickets,Sydney Office,Sydney,"Level 10, 45 Market Street,","{'type': 'Point', 'coordinates': [-33.871062, 151.207016]}",-33.871062,151.207016
+72,Feedity,,Melbourne,,"{'type': 'Point', 'coordinates': [-37.813339, 144.970823]}",-37.813339,144.970823
+74,mental images,mental images Pty Ltd,Melbourne,140 Bourke Street,"{'type': 'Point', 'coordinates': [-37.812332, 144.968956]}",-37.812332,144.968956
+78,Digital Ventures,,MYAREE,"17 Aldous Place,","{'type': 'Point', 'coordinates': [-32.039853, 115.825529]}",-32.039853,115.825529
+81,Travellerspoint,,Melbourne,910/365 Little Collins Street,"{'type': 'Point', 'coordinates': [-37.802626, 144.950938]}",-37.802626,144.950938
+83,StreetAdvisor,,"Richmond, VIC",600 Victoria St,"{'type': 'Point', 'coordinates': [-37.811805, 145.011393]}",-37.811805,145.011393
+84,XY InterAct,Head Office,Sydney,27b Makinson Street,"{'type': 'Point', 'coordinates': [-33.830606, 151.13278]}",-33.830606,151.13278
+85,Kapish,Headquarters,Docklands,Suite 207a,"{'type': 'Point', 'coordinates': [-37.812649, 144.943656]}",-37.812649,144.943656
+86,SMS Poll,HQ,Meadowbank NSW,15 / 23 Angas Street,"{'type': 'Point', 'coordinates': [-33.817773, 151.091193]}",-33.817773,151.091193
+87,Triana Global,Sydney Office,,,"{'type': 'Point', 'coordinates': [-33.869027, 151.210245]}",-33.869027,151.210245
+88,DH Technology,,Hornsby,39 Leighton Place,"{'type': 'Point', 'coordinates': [-33.694387, 151.117434]}",-33.694387,151.117434
+89,Dexterra,Dexterra Asia Pacific,Sydney,2 Park Street,"{'type': 'Point', 'coordinates': [-33.872864, 151.207543]}",-33.872864,151.207543
+91,Retriever Communications,Head Office,Frenchs Forest,14 Aquatic Dr,"{'type': 'Point', 'coordinates': [-33.753529, 151.237264]}",-33.753529,151.237264
+92,Coremetrics,Australia and New Zealand,Melbourne,"Level 27, 101 Collins Street","{'type': 'Point', 'coordinates': [-37.814541, 144.9705]}",-37.814541,144.9705
+93,CarbonFlow,,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+94,Enikos,Sydney Office,Sydney,18 Bulletin place,"{'type': 'Point', 'coordinates': [-33.8627, 151.209705]}",-33.8627,151.209705
+95,Amnesia Group,,East Sydney,"20 Hargraue Street,","{'type': 'Point', 'coordinates': [-33.876658, 151.213362]}",-33.876658,151.213362
+96,Event Innovation,Australian Office,Sydney,167 Macquarie Street,"{'type': 'Point', 'coordinates': [-33.866, 151.212159]}",-33.866,151.212159
+100,Ourexplorer,,Sydney,"10 Hamilton Street,","{'type': 'Point', 'coordinates': [-33.914273, 151.25679]}",-33.914273,151.25679
+101,CodeSense,,Sydney,,"{'type': 'Point', 'coordinates': [-33.629723, 151.323938]}",-33.629723,151.323938
+102,Interspire,"Sydney, NSW","Surry Hills, NSW","Level 9, 162-166 Goulburn St","{'type': 'Point', 'coordinates': [-33.878684, 151.21231]}",-33.878684,151.21231
+103,Dedication Group,Sydney,Sydney,"Level 3, 75-85 Elizabeth St","{'type': 'Point', 'coordinates': [-33.888821, 151.213328]}",-33.888821,151.213328
+107,frankst0ned,Frankston Office,Frankston,28 Beach St,"{'type': 'Point', 'coordinates': [-38.141777, 145.123041]}",-38.141777,145.123041
+110,Sibelius Software,Sibelius Australia,Edwardstown,2/52 Weaver Street,"{'type': 'Point', 'coordinates': [-34.985993, 138.570233]}",-34.985993,138.570233
+111,Cinergix,World HQ,Melbourne,61/39 Rathdowne Street,"{'type': 'Point', 'coordinates': [-37.793125, 144.971266]}",-37.793125,144.971266
+112,uTag,World HQ,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+113,DirectMoney,Head Office,Balmain,15 Barr Street,"{'type': 'Point', 'coordinates': [-33.857834, 151.175409]}",-33.857834,151.175409
+114,Amethon Solutions,Headquarters,Chatswood,Level 6,"{'type': 'Point', 'coordinates': [-33.83639, 151.21085]}",-33.83639,151.21085
+115,Amethon Solutions,Melbourne,Melbourne,Level 5,"{'type': 'Point', 'coordinates': [-38.37331, 144.817624]}",-38.37331,144.817624
+116,Viocorp,Sydney Office,Pyrmont,"Level 2, 47 Murray St","{'type': 'Point', 'coordinates': [-33.876239, 151.215201]}",-33.876239,151.215201
+117,Envato,Head Office,Melbourne,"L13, 2 Elizabeth St","{'type': 'Point', 'coordinates': [-37.812332, 144.968956]}",-37.812332,144.968956
+119,Devnet,Australian Office,BRISBANE,1/94 James Street,"{'type': 'Point', 'coordinates': [-27.458989, 153.043228]}",-27.458989,153.043228
+121,BuzzNumbers,Sydney,Bondi Junction,Suite 401a / 59-75 Grafton St,"{'type': 'Point', 'coordinates': [-33.884685, 151.216427]}",-33.884685,151.216427
+122,hornet,,Balmain,Unit 48/22 Buchanan Street,"{'type': 'Point', 'coordinates': [-33.86322, 151.179693]}",-33.86322,151.179693
+123,BonzaDat,,Queensland,42 Stuart Street,"{'type': 'Point', 'coordinates': [-27.621592, 152.778976]}",-27.621592,152.778976
+124,Tony Bain Group,,Melbourne,,"{'type': 'Point', 'coordinates': [-37.813339, 144.970823]}",-37.813339,144.970823
+125,Gigantiq,Melbourne,Melbourne,,"{'type': 'Point', 'coordinates': [-37.813339, 144.970823]}",-37.813339,144.970823
+127,Clivir,Clivir HQ,Perth,,"{'type': 'Point', 'coordinates': [-31.9554, 115.85859]}",-31.9554,115.85859
+128,GrabaDiscount,,Sydney,,"{'type': 'Point', 'coordinates': [-34.037717, 151.10537]}",-34.037717,151.10537
+130,Beyond Software,Head Office,Melbourne,34/385 Bourke St,"{'type': 'Point', 'coordinates': [-37.814768, 144.962282]}",-37.814768,144.962282
+131,MOZO,Sydney Office,Sydney,"Suite 8, Level 4, 46-58 Holt Street","{'type': 'Point', 'coordinates': [-33.88636, 151.209562]}",-33.88636,151.209562
+132,Bytemobile,,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+134,SinoTech Group,Australian Office,Sydney,Kent St.,"{'type': 'Point', 'coordinates': [-33.868778, 151.204586]}",-33.868778,151.204586
+135,SitePoint,Head Office,"Collingwood, Victoria",48 Cambridge St,"{'type': 'Point', 'coordinates': [-37.807444, 144.985261]}",-37.807444,144.985261
+137,Allure Media,,Darlinghurst,Level 4,"{'type': 'Point', 'coordinates': [-33.8719926, 151.1936039]}",-33.8719926,151.1936039
+139,Webslug,Headquarters,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+140,Saltlick Labs,Development,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+141,additude,#807 St Kilda Road Towers,Melbourne,1 Queens Road,"{'type': 'Point', 'coordinates': [-37.835809, 144.973695]}",-37.835809,144.973695
+142,AAPT,Corporate office,Sydney NSW,680 George Street,"{'type': 'Point', 'coordinates': [-33.877858, 151.206991]}",-33.877858,151.206991
+143,Green Pages Australia,Head Office,Surry Hills,"Level 4, 2-12 Foveaux St","{'type': 'Point', 'coordinates': [-33.8835577, 151.2085974]}",-33.8835577,151.2085974
+144,Voxalot,Sydney Office,North Sydney,Walker Street,"{'type': 'Point', 'coordinates': [-33.837116, 151.209222]}",-33.837116,151.209222
+146,Shane Longman,Head Office,Sydney,Level 57,"{'type': 'Point', 'coordinates': [-37.639333, 144.9504861]}",-37.639333,144.9504861
+147,ShedWorx,Global Headquarters,"Nedlands, WA",Hampden Rd,"{'type': 'Point', 'coordinates': [-31.97302, 115.813457]}",-31.97302,115.813457
+148,Komosion,Melbourne (Head Office),"Southbank, Victoria",113 Ferrars Street,"{'type': 'Point', 'coordinates': [-37.8289319, 144.9530953]}",-37.8289319,144.9530953
+150,dp dialogue,,Brisbane,100 Wickham Street,"{'type': 'Point', 'coordinates': [-27.455465, 153.035629]}",-27.455465,153.035629
+151,GizmoVideo,GizmoVideo,,,"{'type': 'Point', 'coordinates': [-33.7931266, 151.1904068]}",-33.7931266,151.1904068
+156,e-CBD,Gold Coast Office,Southport,31 Charlton St,"{'type': 'Point', 'coordinates': [-27.980414, 153.411179]}",-27.980414,153.411179
+157,ador - Australian Dining Out Reviews,,Richmond,27 Griffiths St,"{'type': 'Point', 'coordinates': [-37.818287, 145.002929]}",-37.818287,145.002929
+158,Aconex,Corporate Headquarters,Melbourne,96 Flinders Street,"{'type': 'Point', 'coordinates': [-37.8161164, 144.9715423]}",-37.8161164,144.9715423
+162,Sensory Networks,Asia Pacific Headquarters,Chippendale,1 Regent St.,"{'type': 'Point', 'coordinates': [-33.874864, 151.219149]}",-33.874864,151.219149
+163,PC Handyman,Australia,Katoomba,PO Box 667,"{'type': 'Point', 'coordinates': [-33.714043, 150.311589]}",-33.714043,150.311589
+164,Xumii,Australia Office,North Sydney,Level 6,"{'type': 'Point', 'coordinates': [-33.924567, 151.038064]}",-33.924567,151.038064
+165,GetPrice,Head Office,"Sydney, NSW",Level 1,"{'type': 'Point', 'coordinates': [-33.863621, 151.213376]}",-33.863621,151.213376
+168,Beyond NG,Our first office,,683 83-93 Dalmeny Ave,"{'type': 'Point', 'coordinates': [-33.916323, 151.210048]}",-33.916323,151.210048
+169,Clear Light Digital,Head Office,St Kilda,Level 3,"{'type': 'Point', 'coordinates': [-37.858685, 144.983243]}",-37.858685,144.983243
+170,Vquence,,Sydney,18 Bulletin Place,"{'type': 'Point', 'coordinates': [-33.862686, 151.20971]}",-33.862686,151.20971
+171,Conversant Media,Newcastle Office,The Junction,PO Box 225,"{'type': 'Point', 'coordinates': [-32.937528, 151.759625]}",-32.937528,151.759625
+172,Perkler,Head Office,Canberra,1/16 Bougainville St,"{'type': 'Point', 'coordinates': [-35.321403, 149.133191]}",-35.321403,149.133191
+174,Progen Pharmaceuticals Limited,Australia,Queensland,"16 Benson St, Toowong","{'type': 'Point', 'coordinates': [-27.485397, 152.993969]}",-27.485397,152.993969
+177,Travel Distribution Systems,Melbourne Office,Melbourne,3/2 Hopetoun St,"{'type': 'Point', 'coordinates': [-37.819691, 145.205688]}",-37.819691,145.205688
+179,Bywave,Head Office,Surry Hills,"Suite 1, Level 2, 78-84 Kippax St","{'type': 'Point', 'coordinates': [-33.871118, 150.8705]}",-33.871118,150.8705
+181,Jimojo,Head Office,"Brisbane, Queensland",2/24 Windorah St,"{'type': 'Point', 'coordinates': [-27.411292, 153.011337]}",-27.411292,153.011337
+183,Marvel Internet Group,HQ,Varsity Lakes,Unit 4,"{'type': 'Point', 'coordinates': [-28.0856271, 153.4002354]}",-28.0856271,153.4002354
+186,Glynx,,Melbourne,,"{'type': 'Point', 'coordinates': [-37.841345, 144.977417]}",-37.841345,144.977417
+190,Join The Clicks,Head Office,Ultimo,7 Kelly St,"{'type': 'Point', 'coordinates': [-33.881451, 151.19552]}",-33.881451,151.19552
+191,Storyz,World Headquarters,Bondi Junction,282 Oxford Street,"{'type': 'Point', 'coordinates': [-33.890832, 151.24502]}",-33.890832,151.24502
+192,Watchmynumbers,Melbourne Office,Melbourne,Level 10/271 Collins Street,"{'type': 'Point', 'coordinates': [-37.816694, 144.964565]}",-37.816694,144.964565
+193,Codesion,R&D Headquarters,"Robina,  QLD","238 Robina Town Centre Dr., Suite 10","{'type': 'Point', 'coordinates': [-28.0718703, 153.3746053]}",-28.0718703,153.3746053
+194,Deep Shift Labs,,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+195,ePartners,ePartners - Australia,North Ryde,"12-24 Talavera Road, Suite 3, Level 4","{'type': 'Point', 'coordinates': [-33.777049, 151.125165]}",-33.777049,151.125165
+196,Internet Marketing Academy Australia,Head Office,Melbourne,458 St Kilda Road,"{'type': 'Point', 'coordinates': [-37.839941, 144.976425]}",-37.839941,144.976425
+197,iconDial,Main Office,Sydney,59 Macleay Street,"{'type': 'Point', 'coordinates': [-33.8687, 151.225361]}",-33.8687,151.225361
+200,iDlogik,Headquarters,Sydney,Lvl 6 - 22 Market St,"{'type': 'Point', 'coordinates': [-33.870661, 151.205039]}",-33.870661,151.205039
+201,Save My Musik,Main,Gordon,Suite 504,"{'type': 'Point', 'coordinates': [-42.7072201, 146.8942107]}",-42.7072201,146.8942107
+202,Axle IT,"7 Marie Street,",Queensland,"Milton,","{'type': 'Point', 'coordinates': [-27.471324, 153.004781]}",-27.471324,153.004781
+203,MeBeam,Main office,Sydney,59 Macleay Street,"{'type': 'Point', 'coordinates': [-33.8687, 151.225361]}",-33.8687,151.225361
+205,Freshview,Headquarters,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+206,PC Tools,,North Sydney,Level 6,"{'type': 'Point', 'coordinates': [-33.85566, 151.177331]}",-33.85566,151.177331
+208,OE Design,Head Office,Burleigh Heads,17/79 West Burleigh Rd,"{'type': 'Point', 'coordinates': [-28.085945, 153.390945]}",-28.085945,153.390945
+209,HealthEngine,Western Australia Office,Perth,6/663 Newcastle St.,"{'type': 'Point', 'coordinates': [-31.97822, 115.89084]}",-31.97822,115.89084
+211,HEDLOC,Sydney (NSW) Head Office,Millers Point NSW,Level 4,"{'type': 'Point', 'coordinates': [-33.8719926, 151.1936039]}",-33.8719926,151.1936039
+213,HEDLOC,Brisbane (QLD) Office,Brisbane QLD,Level 7,"{'type': 'Point', 'coordinates': [-27.471875, 153.110084]}",-27.471875,153.110084
+215,HEDLOC,Perth (WA) Office,Perth WA,Level 29,"{'type': 'Point', 'coordinates': [-31.968149, 115.849689]}",-31.968149,115.849689
+216,Loop11,Head Office,South Melbourne,119 Ferrars Street,"{'type': 'Point', 'coordinates': [-37.8361, 144.9563945]}",-37.8361,144.9563945
+217,Trigora,,Rosanna,PO Box 691,"{'type': 'Point', 'coordinates': [-37.742893, 145.065044]}",-37.742893,145.065044
+218,WebFM,Head Office,Camden,21 Mitchell St,"{'type': 'Point', 'coordinates': [-34.051916, 150.69582]}",-34.051916,150.69582
+219,Kinetic Data,Kinetic Data Pty. Ltd.,Chatswood,781 Pacific Highway,"{'type': 'Point', 'coordinates': [-33.798642, 151.178984]}",-33.798642,151.178984
+223,Jumbilo,World Headquarters,Eagle Heights,78 Wongwallan RD,"{'type': 'Point', 'coordinates': [-27.917488, 153.2075297]}",-27.917488,153.2075297
+225,Flatdog Adventure,flatdog adventure,Ingham,34 Herbert street,"{'type': 'Point', 'coordinates': [-18.649757, 146.158867]}",-18.649757,146.158867
+227,Dialogix,Mailing Address,Queensland,PO Box 1426,"{'type': 'Point', 'coordinates': [-27.454388, 153.030228]}",-27.454388,153.030228
+228,ZaaBiz Pty Ltd,ZaaBiz Headquarter,Surry Hills NSW,"Level 4, Suite 14","{'type': 'Point', 'coordinates': [-33.806371, 150.923345]}",-33.806371,150.923345
+230,ParkSlide,ParkSlide Melbourne,Port Melbourne,Office 63,"{'type': 'Point', 'coordinates': [-37.843183, 144.938697]}",-37.843183,144.938697
+231,ParkSlide,ParkSlide Sydney,Waterloo,Office 18,"{'type': 'Point', 'coordinates': [-33.3970827, 115.7772297]}",-33.3970827,115.7772297
+233,bwired,bwired Office Address,Melbourne,348 High St,"{'type': 'Point', 'coordinates': [-37.857674, 145.037319]}",-37.857674,145.037319
+235,Agency Browser,Agency Browser Ltd.,St Helens Park,16 Heritage Heights Circuit,"{'type': 'Point', 'coordinates': [-34.103392, 150.804956]}",-34.103392,150.804956
+236,Audinate,Australia Office,Ultimo,458 Wattle St,"{'type': 'Point', 'coordinates': [-33.8810954, 151.1968839]}",-33.8810954,151.1968839
+237,BT Imaging,,Surry Hills,1 Blackburn ST,"{'type': 'Point', 'coordinates': [-33.947414, 150.967905]}",-33.947414,150.967905
+238,Internet Marketing Consultant,Main,Hepburn Springs,11 Mckinnon Road,"{'type': 'Point', 'coordinates': [-37.307999, 144.134544]}",-37.307999,144.134544
+239,ekidnaworld,,Queensland,Fortitude Valley,"{'type': 'Point', 'coordinates': [-27.4574861, 153.033686]}",-27.4574861,153.033686
+242,Exploroo Pty Ltd,Exploroo Pty Ltd,"Gold Coast, QLD",19 Seabeach Ave,"{'type': 'Point', 'coordinates': [-28.048422, 153.4375]}",-28.048422,153.4375
+244,Netsize,,West Chatswood,P.O. Box 5122,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+245,Global Surfari,World Headquarters,Manly,PO BOX 290,"{'type': 'Point', 'coordinates': [-33.797144, 151.28804]}",-33.797144,151.28804
+247,Instra Corporation,Head Office,Melbourne,,"{'type': 'Point', 'coordinates': [-37.8133386, 144.9708234]}",-37.8133386,144.9708234
+250,FireScope,APAC Office,Sydney,,"{'type': 'Point', 'coordinates': [-33.867139, 151.207114]}",-33.867139,151.207114
+256,CommTel Network Solutions,Head Office,Tullamarine,46 Ovata Drive,"{'type': 'Point', 'coordinates': [-37.709071, 144.863665]}",-37.709071,144.863665
+257,CommTel Network Solutions,Administration & Sales,Tullamarine,8 Mohr Street,"{'type': 'Point', 'coordinates': [-37.711099, 144.86465]}",-37.711099,144.86465
+258,CommTel Network Solutions,Western Region Office,Victoria Park,P.O. Box 4361,"{'type': 'Point', 'coordinates': [-37.034419, 143.743808]}",-37.034419,143.743808
+259,Novera,,Sydney,Level 4,"{'type': 'Point', 'coordinates': [-33.868898, 151.202966]}",-33.868898,151.202966
+260,Track and Locate,Track and Locate,Sydney,71 Macquarie St,"{'type': 'Point', 'coordinates': [-33.815217, 151.002324]}",-33.815217,151.002324
